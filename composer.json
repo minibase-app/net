@@ -28,6 +28,7 @@
         "phpbench/phpbench": "^1.0",
         "phpunit/phpunit": "^9.5",
         "react/react": "^1.2",
+        "samsara/roster": "^0.1.5",
         "symfony/var-dumper": "^5.3"
     },
     "autoload": {
